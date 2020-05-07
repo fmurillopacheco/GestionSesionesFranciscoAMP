@@ -1,0 +1,20 @@
+/* 
+    Created on : 07-may-2020, 14:25:04
+    Author     : Framcisco_Antonio
+*/
+body
+{
+   font-family: 'PT Sans', sans-serif;
+   font-size: 16px;
+   padding:2px;
+   display:block;
+/*   width:290px;*/
+   margin: 0 auto;
+   text-align:center;
+}
+#Titulo{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    border-bottom: solid blue;
+}

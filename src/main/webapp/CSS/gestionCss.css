@@ -1,0 +1,45 @@
+/* 
+    Created on : 06-may-2020, 14:19:06
+    Author     : Francisco_Antonio
+*/
+body
+{
+   padding:2px;
+   display:block;
+   margin: 0 auto;
+   text-align:center;
+}
+#contenedor {
+  width: 60%;
+  margin: 0 auto;
+}
+section {
+    display: flex;
+    display: -webkit-flex;
+    flex-flow: row wrap;
+    -webkit-flex-flow: row wrap;
+}
+#article{
+    
+    margin-left: 10%;
+}
+header{
+    margin-left: 20%;
+   align-content: center;
+    
+}
+p { color: black; font-family: Verdana; }
+button, input, select,date {
+  font-family : inherit;
+  font-size   : 100%;
+}
+ .boton{
+        font-size:10px;
+        font-family:Verdana,Helvetica;
+        font-weight:bold;
+        color:white;
+        background:#638cb5;
+        border:0px;
+        width:80px;
+        height:19px;
+       }
